@@ -1,1 +1,1 @@
-"# LibraryManagementMonitoringSystem" 
+基于树莓派和RFID技术的智能图书管理监控系统（嵌入式课设）
