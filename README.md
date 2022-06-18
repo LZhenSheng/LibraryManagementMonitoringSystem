@@ -29,3 +29,46 @@
 
 ## 界面
 
+(1)修改密码界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E7%95%8C%E9%9D%A2.png)
+
+(2)借阅历史查询结果弹窗界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E5%80%9F%E9%98%85%E5%8E%86%E5%8F%B2%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C%E5%BC%B9%E7%AA%97%E7%95%8C%E9%9D%A2.png)
+
+(3)借阅查询历史界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E5%80%9F%E9%98%85%E6%9F%A5%E8%AF%A2%E5%8E%86%E5%8F%B2%E7%95%8C%E9%9D%A2%20.png)
+
+(4)图书借阅界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E5%9B%BE%E4%B9%A6%E5%80%9F%E9%98%85%E7%95%8C%E9%9D%A2.png)
+
+(5)图书归还界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E5%9B%BE%E4%B9%A6%E5%BD%92%E8%BF%98%E7%95%8C%E9%9D%A2.png)
+
+(6)失败弹窗界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E5%A4%B1%E8%B4%A5%E5%BC%B9%E7%AA%97%E7%95%8C%E9%9D%A2.png)
+
+(7)成功弹窗界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E6%88%90%E5%8A%9F%E5%BC%B9%E7%AA%97%E7%95%8C%E9%9D%A2.png)
+
+(7)登录界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.png)
+
+(8)馆藏查询界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E9%A6%86%E8%97%8F%E6%9F%A5%E8%AF%A2%E7%95%8C%E9%9D%A2%20.png)
+
+(10)馆藏查询结果弹窗界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E9%A6%86%E8%97%8F%E6%9F%A5%E8%AF%A2%E7%BB%93%E6%9E%9C%E5%BC%B9%E7%AA%97%E7%95%8C%E9%9D%A2.png)
+
+(11)验证密码界面
+
+![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E9%AA%8C%E8%AF%81%E5%AF%86%E7%A0%81%E7%95%8C%E9%9D%A2.png)
