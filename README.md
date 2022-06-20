@@ -23,11 +23,11 @@
 | HC-SR501人体红外感应模块 |
 | 500万像素广角CSI视频摄像头 |
 
-## 软件架构
+## 2.软件架构
 
 ![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E7%B3%BB%E7%BB%9F%E7%BB%93%E6%9E%84%E5%9B%BE.png)
 
-## 界面
+## 3.界面
 
 (1)修改密码界面
 
@@ -72,3 +72,6 @@
 (11)验证密码界面
 
 ![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E9%AA%8C%E8%AF%81%E5%AF%86%E7%A0%81%E7%95%8C%E9%9D%A2.png)
+
+## 4.不足之处
+（1）界面太丑
