@@ -1,4 +1,4 @@
-基于树莓派和RFID技术的智能图书管理监控系统（嵌入式课设）
+# 基于树莓派和RFID技术的智能图书管理监控系统（嵌入式课设）
 ## 1.环境
 
 ![1655494134977](https://github.com/lijianxing66628/LibraryManagementMonitoringSystem/blob/main/images/%E7%A1%AC%E4%BB%B6%E6%88%90%E5%93%81%E5%9B%BE.jpg)
